@@ -19,13 +19,7 @@ function App() {
   const [notes, setNotes] = useState([]);
 
   const firebaseConfig = {
-    apiKey: "AIzaSyDAP5bsQk9IYpBbvUVQqvI7d4RqYh5Xdqs",
-    authDomain: "baby-names-app-db-f5128.firebaseapp.com",
-    databaseURL: "https://baby-names-app-db-f5128.firebaseio.com",
-    projectId: "baby-names-app-db-f5128",
-    storageBucket: "baby-names-app-db-f5128.appspot.com",
-    messagingSenderId: "398460116167",
-    appId: "1:398460116167:web:78c9c6c09226652e"
+    //API here
   };
 
 
